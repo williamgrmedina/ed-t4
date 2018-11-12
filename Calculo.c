@@ -6,6 +6,7 @@
 #include "Elemento.h"
 #include "Comandos.h"
 #include <stdlib.h>
+aejioawjieoajoeawj
 
 double min(double a, double b){
     if(a < b)
